@@ -32,4 +32,5 @@ To work on the web application it is recommended you have an understanding of th
 - Install Node and NPM. https://nodejs.org/en/download/
 - git clone this repo.
 - run npm install inside client folder
+- run npm run dev
 - start developing!
